@@ -1,0 +1,2 @@
+# EFI-ASUS-H510M-A
+Hackintosh EFI for ASUS H510M-A + I3 10105F + RX580
